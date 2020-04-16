@@ -1,0 +1,7 @@
+{
+  "python.pythonPath": "/Users/ehossack/.local/share/virtualenvs/minecraft-status-aMjJns4D/bin/python",
+  "python.formatting.provider": "black",
+  "editor.formatOnSave": true,
+  "python.linting.pylintEnabled": true,
+  "python.linting.enabled": true
+}
