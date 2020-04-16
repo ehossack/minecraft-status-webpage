@@ -60,4 +60,4 @@ def getOrError(variable):
     return getenv(variable)
 
 if __name__ == '__main__':
-    app.run()
+    app.run(host='0.0.0.0', port=getenv('LISTEN_ON'))
